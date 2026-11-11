@@ -1,7 +1,7 @@
 {
-  "v": 1,
-  "payload": "eyJsb2NrZWQiOmZhbHNlLCJtZXNzYWdlIjoiIiwibWluVmVyc2lvbiI6IjEuMC4yIiwiaXNzdWVkQXRVdGMiOiIyMDI2LTExLTExVDA0OjQ5OjMwLjQ4MzQzMDFcdTAwMkIwMDowMCIsImV4cGlyZXNBdFV0YyI6IjIwMjctMDUtMTBUMDQ6NDk6MzAuNDgzNDMwMVx1MDAyQjAwOjAwIn0",
-  "signature": "MEUCIQDPtjTHG2_tCuYc-8wP1bPgPDdfR9EJca2w-hRpvzdtCQIgZ_ddJPFbNHEN_iGQBizlgluB6rhtflctTPEC68HSAZA",
-  "locked": false,
-  "message": ""
+    "locked":  false,
+    "message":  "",
+    "minVersion":  "1.0.0",
+    "issuedAtUtc":  "2026-11-11T05:16:28.8609192+00:00",
+    "expiresAtUtc":  "2027-05-10T05:16:28.8609192+00:00"
 }
